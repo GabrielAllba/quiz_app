@@ -6,11 +6,23 @@ const questions = [
     ['Widgets', 'Components', 'Blocks', 'Functions'],
   ),
   QuizQuestions(
-    '1 + 1 = ',
-    ['1', '2', '3', '4'],
+    'What are the main building blocks of Flutter UIs',
+    ['Widgets', 'Components', 'Blocks', 'Functions'],
   ),
   QuizQuestions(
-    '1 + 2 = ',
-    ['1', '2', '3', '4'],
+    'What are the main building blocks of Flutter UIs',
+    ['Widgets', 'Components', 'Blocks', 'Functions'],
+  ),
+  QuizQuestions(
+    'What are the main building blocks of Flutter UIs',
+    ['Widgets', 'Components', 'Blocks', 'Functions'],
+  ),
+  QuizQuestions(
+    'What are the main building blocks of Flutter UIs',
+    ['Widgets', 'Components', 'Blocks', 'Functions'],
+  ),
+  QuizQuestions(
+    'What are the main building blocks of Flutter UIs',
+    ['Widgets', 'Components', 'Blocks', 'Functions'],
   ),
 ];
